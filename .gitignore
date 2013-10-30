@@ -17,3 +17,6 @@
 
 # Ignore secrete file
 /.secret
+
+*~
+*.swp
